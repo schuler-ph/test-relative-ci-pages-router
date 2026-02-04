@@ -1,7 +1,15 @@
 function NewPage() {
   return (
     <>
-      Hello World
+      Hello Hello World Hello World Hello World Hello World Hello World Hello
+      World Hello World Hello World Hello World Hello World Hello World Hello
+      World Hello World Hello World Hello World Hello World Hello World Hello
+      World Hello World Hello World Hello World Hello World Hello World Hello
+      World Hello World Hello World Hello World Hello World Hello World Hello
+      World Hello World Hello World Hello World Hello World Hello World Hello
+      World Hello World Hello World Hello World Hello World Hello World Hello
+      World Hello World Hello World Hello World Hello World Hello World Hello
+      World Hello World Hello World Hello World Hello World
     </>
   );
 }
