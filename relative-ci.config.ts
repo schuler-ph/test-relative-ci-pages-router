@@ -10,6 +10,6 @@ export default {
   compress: false,
   webpack: {
     // Path to Webpack stats JSON file
-    stats: ".next/server/webpack-stats.json",
+    stats: "./webpack-stats.json",
   },
 } satisfies Config;
